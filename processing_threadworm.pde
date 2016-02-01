@@ -1,4 +1,5 @@
 // (c)2014, Angelo Stitz
+// Processing 2.0.2
 
 int curPosXstart, curPosYstart;
 int curPosXend, curPosYend;
